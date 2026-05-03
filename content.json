@@ -1,0 +1,1606 @@
+{
+  "site": {
+    "hero": {
+      "eyebrow": "Costa Studio · Cairo · 2026",
+      "titleRed": "MAZEN COSTA",
+      "titleWhite": "PORTFOLIO",
+      "role": "Senior Full-Stack Visual Artist & Software Engineer · 10+ Years",
+      "image": "hero.png",
+      "tags": [
+        {
+          "label": "Cyberpunk",
+          "red": true
+        },
+        {
+          "label": "Marvel Style",
+          "red": true
+        },
+        {
+          "label": "GTA Style",
+          "red": true
+        },
+        {
+          "label": "Comic Art",
+          "red": false
+        },
+        {
+          "label": "3D & Motion",
+          "red": false
+        },
+        {
+          "label": "AI-Augmented",
+          "red": false
+        },
+        {
+          "label": "Brand Identity",
+          "red": false
+        }
+      ]
+    },
+    "theme": {
+      "accent": "#e8162a",
+      "density": "loose"
+    }
+  },
+  "projects": [
+    {
+      "id": "proj-1777593594022",
+      "title": "GLITCH-TECH:THE SHADOW INVASION // Storytelling Spider-Verse",
+      "category": "motion",
+      "frame": "Storytelling Spider-Verse · 2026",
+      "description": "Late nights at the local coffee shop take a lethal turn when a routine system update fractures reality. This project explores the transition from the mundane to the digital front-line, where a laptop becomes a gateway to a neon-drenched conflict. Through high-octane comic aesthetics and cinematic paneling, we follow a developer pulled into a \"Cyber-Shadow Invasion,\" forcing an immediate evolution from coder to combat-ready guardian. The boundary between hardware and hero has officially dissolved.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594561/ejregfk9luesyiutebcd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594581/ehdkpotomnckaoewtvi9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594599/uzsyljj5at0go7637nmd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594603/ajfootbgnmlwv7rylrrr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594608/tpuoijxanbcetnxdpymu.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595098/wktudrrcko97iyeij4zn.mp4"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595158/vhp5azl8gl8jiwoztax4.mp4"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595232/iltstzmd0kdstwh2mpkq.mp4"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595297/qxgfqqw2c6dqvdla9yip.mp4"
+        }
+      ],
+      "year": "2026",
+      "role": "Creative Director · Cyberpunk Spider-Verse · Illustrator · AI Art Director · Storyboard Artist",
+      "client": "Personal Project",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594453/nlrd9dbewf1gvkvr6pjk.jpg"
+    },
+    {
+      "id": "proj-1777590936092",
+      "title": "COSTA MULTIVERSE // Cyberpunk Spider-Verse",
+      "category": "motion",
+      "frame": "Cyberpunk Spider-Verse · 2026",
+      "description": "Digital life meets multiversal warfare in this high-contrast character study. This project explores the friction between a vibrant, low-poly superhero aesthetic and the gritty underworld of a neon-drenched metropolis. By utilizing explosive comic-book visuals and a kinetic \"Spider-Verse\" energy, we personify the evolution of a digital creator into a cinematic powerhouse. Every frame is engineered to feel like a high-stakes moment in a digital odyssey where identity is the ultimate weapon. The system is live.",
+      "tags": [],
+      "media": [
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777593536/hdujjqxwrkt1ctmlpy7d.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593542/wloqbdo8bvwwag9qfctu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593547/nz9zhiw4qbp7tmwa6xv3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593553/hvfrlxgm15evxorgrcz5.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Cyberpunk Spider-Verse · Illustrator · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593478/dfa0qtfqc0kr4qmjhtlq.jpg"
+    },
+    {
+      "id": "proj-1777589915059",
+      "title": "GRAND THEFT AUTO VI STYLE // ILLUSTRATION SERIES",
+      "category": "illustration",
+      "frame": "GTA STYLE · 2026",
+      "description": "High-octane visual storytelling meets the sun-drenched grit of Vice City. This series reclaims the iconic Grand Theft Auto aesthetic, injecting a sharp, cinematic edge into character-driven environments. By blending hyper-saturated neon palettes with aggressive linework, the project captures the friction between luxury and the underground. Every frame is built to pulse with the kinetic energy of a mission start, bridging the gap between raw photography and legendary gaming lore. The city is yours.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590405/icvgyfylqxzt4rv4lm1s.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590417/llrneu8uqk3ylrhzxhro.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590422/frqkn908sp4yfommt6nw.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590425/q0710raecbauzjxnuls4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590429/b2rswdr1booiynyuaizo.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590450/ewdnsutq2exvch7nunta.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590824/mhqphq3bvbsvhjxl9ijm.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590852/q7shhzjlpljt5t9mqnci.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590861/wcptfpuyrhthlpbrj48t.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590871/vdcw4ims05nrsjud972a.png"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Illustrator · Character Designer · AI Art Director · GTA STYLE",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590385/miisac7de3j3jqppudbs.jpg",
+      "featured": false
+    },
+    {
+      "id": "proj-1777589020527",
+      "title": "MARVEL COMIC // VINTAGE COVER REIMAGINATION",
+      "category": "illustration",
+      "frame": "Comic Illustration · 2026",
+      "description": "This series deconstructs personal identity and reassembles it through the lens of Bronze Age Marvel aesthetics. We explored the intersection of heritage branding and pop culture narrative, utilizing period-accurate halftone patterns, weathered paper textures, and aggressive action-oriented typography. Each frame lives in a curated multiverse where everyday technical tasks are elevated to heroic exploits. It’s an exercise in nostalgic storytelling, blending 1970s Marvel-inspired artistry with modern digital identity. The legacy is re-inked.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589482/us8hy6zpfzztzjmo0on6.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589490/juefgvta9a1giyvwcmen.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589508/usfrshnptagm8adl8oal.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589517/twpctvusamrakfmlqtst.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589524/t7gdk8jtsej0qdzuroqg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589531/aarqlsyeztookzvplyoy.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589539/i5sqozcnbmhkfli1hpaj.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589543/w6vvl8vwbzfj4nqxsise.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589550/squkcl1g55wq1jyc45iu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589556/eupfoy6carbwzd0j7he2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589561/e0hegctby7ywptkyr4jh.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589567/yce2ms8x8atqvsycb8af.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Marvel Artist · Illustrator · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589353/cyfzzdxjwlwdfrz3u14o.jpg"
+    },
+    {
+      "id": "proj-1777585589394",
+      "title": "CURRENT REALITY // CYBER-MULTIVERSE DESCENT",
+      "category": "illustration",
+      "frame": "Cyberpunk Spider-Verse · 2026",
+      "description": "This series documents the total digital overwrite of the present day. We took raw, everyday captures and forced them through a multiversal filter, collapsing the distance between our current reality and a high-octane, neon-drenched future. By injecting aggressive comic-book kinetics and rain-slicked cyberpunk aesthetics, we transformed the mundane into a cinematic narrative. It’s an exploration of the self, re-rendered for a world where the grid is the only truth. Welcome to the future.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586219/atrdvnmc6h8rsw3yjwlu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586226/hiat3w4v43te7lhufhqp.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586568/pdtzleqgw1prbffmmkcl.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586576/idnx5l9ndwa6hyl1mf5p.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586581/qguuulrshr6gf3vjp3eo.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586588/khbhd6fkimvee9dapbqn.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586594/xc751zmip00ruohniqdz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586600/khetdbfluchr1vrdmxue.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586606/sah4z9m3obfx6b2ei47n.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586613/bk8wgxtp2fwksgijf9bg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586617/haj9txr18msqrbkaryqd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586621/ymrluo1rugxxobnynglz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586626/vyadfb3yf0wqhqncbxun.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586631/iklxxvowtfo1ymp2pbge.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586636/r2hu3ogijfptfq6w6a63.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586641/coqizlshz1rvubgcj4sv.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586645/lzbsdqoxrhkz3cvs9nzg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586650/pit082sowotetmkaohfw.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586653/ftzkzolsvjx9kjm65kua.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586657/r7eywo8yzns0yrflamxi.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586659/hg3dzw4tbdgqx6agdqyt.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586664/cvocsqvkvcwfuccjwleq.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586668/m51apt79cix0urigutmo.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586672/ztokbpniyn8ixqevqjpm.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586678/yva7geobwfudguzyxcn5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586695/ss45iqbeaodaeyboj24u.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586700/aqoj0zfmlyfe98rqp4x7.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586704/lfei1vdlb61detku36k4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586708/fgpjnbghyjiixmn4wumj.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586713/vxhhe9x48tyuvr9soajv.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586727/vvtredlelimcmxxnljhp.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586732/oafu9zfne4xz1hjdpqjw.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586741/irgourzz9dhhwl64qs62.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586746/rqpjkdvrk77vz3tugaip.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586753/ddaadpyt13bh3q3j9nix.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586755/w0rqtmbvlhogickthkgs.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777586760/fzta5k949vbfosefmchx.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Lead Illustrator · Character Designer · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777587368/eopsw8xn8lqrhyaooamk.jpg",
+      "featured": false
+    },
+    {
+      "id": "proj-1777584997747",
+      "title": "NEO-SEOUL CHRONICLES // Cyberpunk Spider-Verse",
+      "category": "illustration",
+      "frame": "Cyberpunk Spider-Verse · 2026",
+      "description": "Digital focus meets rain-slicked grit in this exploration of creative transcendence. This narrative sequence bridges the gap between raw, analog sketches and advanced biometric interfaces, all set within a neon-drenched urban sprawl. By utilizing aggressive halftone textures and high-octane kinetic energy, the project visualizes the moment an artist’s vision becomes a functional, high-tech reality. It is a cinematic tribute to the relentless grind of the modern full-stack creative. The system is live.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585234/al8wgwe5yjzs9mhtfq9e.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585239/j26cdpjq1v0mzrhcgdz3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585245/gxhi5vbklucfipzkhefx.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585250/i3bc9ifqmdvghshmpnip.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585255/k0vi6uhq3mfbcyidd3bc.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585260/o2piuhbsqvzovsgw8h27.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585267/jaupfgcgwngyq3hc5ppk.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585273/drnmlt7mefumt8o7c5dk.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585281/zjueofnspzpiqbnicqls.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585288/aarkg03r7l9wxdfkj8us.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585295/z3pk40danqwojzvy0xst.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585301/z9tqvtxas41pv0curxfs.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585307/u5dgrtrzufhgs6icf4ej.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585315/tgdjvlgbqhgr3v90aew9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585323/benrpyuxgmkdslkfzrkl.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585330/f8s3elobusq6zjyd35v2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585335/oprecjnrgpn2zs4olhbn.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585341/o2yggvrd0grhx4sqvjwu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585350/jw8zsytu7nu12lqbhbsu.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Illustrator · Character Designer · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777585183/ms9qrnarh5snipwlgjtm.jpg"
+    },
+    {
+      "id": "proj-1777584257041",
+      "title": "NEO-SEOUL DISTRICT // Cyberpunk Spider-Verse",
+      "category": "illustration",
+      "frame": "Cyberpunk Spider-Verse · 2026",
+      "description": "High-stakes digital focus meets a rain-slicked cyberpunk aesthetic. This series reimagines a real-world creative workflow within the neon-drenched grid of a futuristic Neo-Seoul. Utilizing aggressive halftone patterns and cinematic \"Spider-Verse\" kinetic energy, the project visualizes the intensity of software engineering as a superhero narrative. Every frame pulses with electricity, bridging the gap between raw photography and stylized comic-book maximalism. This is where technical precision meets high-octane visual storytelling. The system is live.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584625/fjaofi2pu6pfkcmcyoqe.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584694/x9nb0diwxpabtwyx1a2n.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584734/fikvx7ukwmanpbvby1nt.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584777/rejwmhpx63ccyhqu7heg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584816/llpvbxsjzlhvj0ekwro6.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584857/xdseulip8hwe5jse9li4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584895/rl6neyvisdokvvgwslxf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584932/poefklafcs4fmjsg7upa.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584971/fge44bmggwokg46vqdge.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Lead Illustrator · AI Art Director · Character Designer",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584631/kuvd9s3ntdbvezczlbo8.jpg"
+    },
+    {
+      "id": "proj-1777582528261",
+      "title": "MAZEN COSTA // DIGITAL INSIGHT:THE 60-YEAR PERSPECTIVE",
+      "category": "motion",
+      "frame": "Character Design · 2026",
+      "description": "This personal exploration documents the transition of identity into digital legacy. We captured the contemplative depth of a seasoned creator, integrating 60 years of life experience into a stylized, mature persona. The visual narrative combines precise vector-inspired linework with a dynamic, high-angle 'God's eye' perspective, personifying wisdom and enduring focus. It’s an intimate look at the moment where knowledge becomes technical prowess, proving that creativity knows no age limit. The journey continues.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582938/ckbvni37brdffznwmibw.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777583036/msfgk0ksfvqn2ctmroeu.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777583230/gyo6esx4wwuo9ndwptfx.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777583355/bv8i4e7xnxombocz57bw.mp4"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777583523/bmfg70hmo5xq95nqrgvn.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777583561/ctzlbdnld37mo1i3j6yo.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777583623/wgovkouyvj0fto8bw6zb.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777583808/syjyb8qp9dxgphgfnzdj.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777583926/pdw4rcbhdrmxqc9tllve.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777583953/yoexlarmzcqnt7lw1ueg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777583977/d8cytxkc9kpjur3vs9qd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777584015/du3hoqdfirsoo31tsuub.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · 3D Artist · Character Designer · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582822/sjirtmg0fyz3xpwyifoq.jpg"
+    },
+    {
+      "id": "proj-1777581660797",
+      "title": "SKETCHBOOK SESSIONS // THE KINETIC ARCHIVE",
+      "category": "illustration",
+      "frame": "Character Design · 2026",
+      "description": "A deep dive into the raw, ink-heavy world of character development. This project documents the transition from loose conceptual sketches to high-contrast, finished illustrations, pulling heavy influence from urban street culture and the bold linework of classic graphic novels. We explored diverse personas—from tactical urban visionaries to playful caricatures—maintaining a gritty, hand-drawn energy throughout. It’s an exploration of identity and narrative, proving that the strongest stories begin with a single, confident stroke of the pen. The line never lies.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582035/aw45gwchnyozji7n8jwl.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582242/wzsf7loanfp0sp3wzpfh.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582245/gquyrstzqp8ivtjbdvrx.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582249/qfxhpx9adodjc1xehkdr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582252/im56bd5x2roibpfjcpbj.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582255/i8ba5ak0xpfhcb1fwp9i.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582258/mq091ff0tx995ronmrlm.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582261/eyul8o1ghgybv3gyvf3y.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582263/domteuqitofiummz8tdz.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582267/bpc8qrk6bbd66xeutbv0.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582273/iakxvcjyceex7er4sswm.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582275/mbhzs0gvl2je8re4sjhj.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582285/xpbhi9vudde2iogpvawo.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582293/grij0jeivgmkuswyjteg.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582295/gc2lqiap6w9u0wfuzdcl.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582302/uvvnodxaplc7xecmr25x.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582308/gzb5q8zhttfds6m6fcaj.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582310/n6jf0zfb3u11bwimocjb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582315/obg2jlviu6xx9nohmpj2.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582321/tz2ax5kozlkfe6vhnjzb.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582322/z9nrugwpscbweyg4ue0m.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582323/rppcyf90l6jzvsg2nphy.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582333/oe5o2vphjwkhqmoluzft.png"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Lead Illustrator · Concept Artist · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777582023/ydolvxxkvbw6heiljsz7.jpg"
+    },
+    {
+      "id": "proj-1777581348008",
+      "title": "COSTA // HYPER-EXPRESSIVE CHARACTER LAB",
+      "category": "illustration",
+      "frame": "Character Design · 2026",
+      "description": "Character design enters a new dimension of exaggerated realism. We explored the boundary between stylized caricature and high-fidelity 3D modeling to personify the caffeine-fueled creative process. By utilizing a hyper-expressive visual language, the project captures a singular moment of shock and realization, blending soft-touch textures with cinematic lighting. This is an exercise in emotional resonance, where every exaggerated feature serves to amplify the narrative of a modern tech-driven workflow. Digital personality, fully caffeinated.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777581612/kvjb0sveqbmkr2xr6xxn.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777581618/qp5lcsr4tffh6jomaexs.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777581626/yn2iyneegwubuyp1sz6s.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Illustrator · 3D Artist · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777581597/a0fsyns4nzfu1ugwfrvx.jpg"
+    },
+    {
+      "id": "proj-1777578921178",
+      "title": "COSTA UNLOCKER // MOTION CAMPAIGN",
+      "category": "motion",
+      "frame": "Motion Graphics · 2026",
+      "description": "Technology meets transcendence in this high-octane visual journey. We followed the transformation of a creator into a digital powerhouse, blending low-poly geometry with high-fidelity cinematic lighting. This project explores the friction between the physical and the virtual, utilizing a kinetic energy inspired by modern animation to personify software capability. It’s more than a process—it’s an awakening. Every frame is engineered to feel like a high-stakes moment in a digital odyssey.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777580768/ftnrsjjc7coytx8ckkep.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777580794/i8dm4u27a0jckj0d4yrn.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777581166/vq5vpsfbgodzv844pjwk.mp4"
+        }
+      ],
+      "client": "Personal Project",
+      "year": "2026",
+      "role": "Creative Director · Motion Artist · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777580527/yzpvs9nrarksgvcjqd2m.jpg"
+    },
+    {
+      "id": "proj-1777062064431",
+      "title": "MAZEN COSTA // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Visual Identity & Motion · 2026",
+      "description": "This is what your brand looks like when it has gravity. A full 3D visualization system — mockups, environments, and compositions designed to make every presentation feel like a product launch, not a portfolio slide.\n\n",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063378/m7qjmuh7cpyc3hojky2n.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063623/ylpttcacrtf7osnhz3cz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063625/oqjdcbmqnpv7ztl4zmia.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063628/gpzzp1uunj8agzopmbpu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063631/vnsgwoujgvyp7dxrjdzf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063634/t7tkic60wswgoxej1krb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063638/hsvn4igik02grd865fzl.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063641/zrgijmw0h21yrcjmdosi.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063645/q2ncyoumnfhlkfwegteq.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063691/dnwivcxmp0bdusshlfk1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063695/pygfgu4iyqxzzwbkrbmo.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063699/hvtqxtiuzpuie70ypkpm.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063705/qz7ol77gosrt1x5urlhh.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063752/pdmxwzmhexmvjdjssrjn.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063775/lfwdmdgieuw0tgtghrop.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "COSTA",
+      "role": "Brand Identity Design · Character Art · Motion Direction",
+      "featured": true,
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063196/xv8sxkf8rkuydbczpr9x.jpg"
+    },
+    {
+      "id": "proj-1777060510209",
+      "title": "COSTA UNLOCK Marvel-Style Character // AI Art Direction",
+      "category": "branding",
+      "frame": "Marvel-Style Character & · AI Art Direction · 2026",
+      "description": "Marvel-style branding takes everything your brand stands for and turns it into a visual event. The dramatic lighting, the hero composition, the sense that something important is about to happen — all of it is engineered to make your audience feel, before they think. This isn't a logo presentation. It's a movie poster for a brand that means business.\n\n",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061131/rusw6p0bebxwcqqy4yxs.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061341/zxwzczyiarxhzdhu9zpx.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061390/vtcmpuatx0uhvipe7111.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061504/g5utzxdphzrha2urjsch.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061509/qm5b0u9vbiklge7giokz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061517/o3y3qvhael1rp0gl6pva.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061525/zoeojq0eky86ewqphyyx.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061533/vikeya7qjltt0z87irgu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061542/kh5w6duxw6kmkk7sprux.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061552/nxmzyfselrvlrtulfnmq.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061564/q9wgjeyhxcc9arteoksr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061655/pnwdryy22qgitp7q1pqv.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061660/f3exicu1w4rrlunozrim.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061667/fpsr9bpv0hjlxxfhisma.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061726/sauvtxwkhn6fhpx1flma.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061776/eqvtlw8wnc2hpeckvfmb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061784/eilkfhpekjbaljvp3imi.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777061811/eb6hlxuqzb3iup35sref.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061846/raystrybwemqfqt9zkte.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777061868/lcrphxvv0bzmvehuzio9.mp4"
+        }
+      ],
+      "role": "Full Brand System · Marvel-Style Character · AI Art Direction",
+      "year": "2026",
+      "client": "COSTA",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777061570/l4svwnyotv9m7ifrqzka.jpg"
+    },
+    {
+      "id": "proj-1777055238575",
+      "title": "COSTA UNLOCK Character Designed // AI Art Direction",
+      "category": "branding",
+      "frame": "Character Design & · AI Art Direction · 2026",
+      "description": "A custom character designed to serve as the brand's mascot — a visual personality capable of representing the brand across all media and situations. Delivered in four distinct poses covering all social media needs, with a 3D version and motion animation for a memorable brand intro.\n\n",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777055752/nhrb2uejljj83g7ebv1m.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777055754/h6up6napdxpr8k41itfz.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056037/sxifcpye1n88vd6qf460.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056050/skosh8fdw32jhbwlxj7r.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056056/jysfuuprcjjlq3rs76c2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056066/eisryfryuey27a4hwwg8.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056075/qj455jagrmlmswjb2jug.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056084/bwlpdpc8zqoj5vhzowzm.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056091/dmj83oa3odrhbrziyspz.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056100/nyi3er1iapwvsq8wq5dh.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056109/pm59cfxibesgbwwovigu.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056115/bh9jqgwyzvndhplpz7bb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056123/x5wcbenqqskymrqizejd.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056125/mi4uvki654mvkhocqzbv.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056127/vyvwgmpfkvyg4z0iatna.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056128/nwapldqwiruvucmjtixr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056494/c3ftjpr1zmur1xa0ouyk.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056504/fshbb0ah9f7knnocqbwl.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056518/lyfyluxq9upsjynw51kc.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056529/gehqp7a2c9zca6nb9m6b.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056548/nmgvcdjarz54zxqstz8g.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056561/kivowhu0uzjds8wswpzq.png"
+        }
+      ],
+      "year": "2026",
+      "client": "COSTA",
+      "role": "Brand Identity Design · Character Art · Motion Direction · AI Art Direction",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056703/jjw3tfhrh5cwfihsgnrn.png"
+    },
+    {
+      "id": "proj-1777054299764",
+      "title": "COSTA UNLOCK 6 // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Full Branding · Tech Services · 2025",
+      "description": "UPDATE Logo Costa Unlock is a specialized software & device unlocking service — built with a complete visual identity that reflects speed, tech expertise, and digital precision. The brand system follows a dark tech aesthetic with Cyberpunk undertones, designed to perform across Telegram channels, social media, and all digital touchpoints. This is branding that earns trust in a high-stakes, fast-moving market.\n                            \nMost designers deliver a logo. Maybe a color palette. Maybe some mockups if you're lucky. This project delivers something different: a complete visual identity system for [Brand Name], explored across six visual dimensions — 3D space, Cyberpunk atmosphere, Marvel-level cinematic power, GTA street energy, motion that stops the scroll, and a storytelling framework that makes the brand feel like it's been here forever. This is not branding. This is world-building.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054574/jzfnyqksthjzenrqntnl.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054615/hrxr6dzpmxqqb1jluqtz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054762/wdtakpwldwhz1dec2hwt.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054765/feg3nqmzzl3xh9e9t3cn.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054770/hnx8da3rrgipoww1odc3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054776/gqziq98rdpvwxnkm2mah.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054781/ib7gmh1pukgiceti5an5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054790/ddn50s7xcp9jjnjcp1lq.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054797/bhni1glgrjcb970lu8cf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054802/ifmywbahzxps48xaq8tr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054805/aj7nzxfl4ytejpnnrvks.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054809/ee7tnou2vz23j6xshgog.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054817/nxqguyoebyn0vp4tqqvu.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054820/hr9qui8vpxvjxes4wjwd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054824/oxjeuq6eqzwdttpsgr5n.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054828/vvvktoea311aeeccrken.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054875/ohsiwtlza6vfoudynkbd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054882/qoicuawrgbnicyzfthaf.jpg"
+        }
+      ],
+      "year": "2025",
+      "client": "COSTA",
+      "role": "Brand Owner · Visual Identity Designer · Creative Director · Social Media Design",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777054455/b80vmmkswe1onwwothwp.jpg"
+    },
+    {
+      "id": "proj-1777048880506",
+      "title": "COSTA UNLOCK 5 // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Full Branding · Tech Services · 2023",
+      "description": "UPDATE Logo Costa Unlock is a specialized software & device unlocking service — built with a complete visual identity that reflects speed, tech expertise, and digital precision. The brand system follows a dark tech aesthetic with Cyberpunk undertones, designed to perform across Telegram channels, social media, and all digital touchpoints. This is branding that earns trust in a high-stakes, fast-moving market.\n                            \nMost designers deliver a logo. Maybe a color palette. Maybe some mockups if you're lucky. This project delivers something different: a complete visual identity system for [Brand Name], explored across six visual dimensions — 3D space, Cyberpunk atmosphere, Marvel-level cinematic power, GTA street energy, motion that stops the scroll, and a storytelling framework that makes the brand feel like it's been here forever. This is not branding. This is world-building.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050339/e5uketgqvey0rmzwv3a1.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050427/b5p1ox568dxgazbm7z89.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050432/tfkwiohfeqvpw2tmltzu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050436/f5tk27rebjzbh77mu5ph.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050440/yivz9q0fzqryjlthlogr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050448/lz4ofk5rgw4wxby524rz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050457/wzjulwze6nrfekhfjlke.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050465/xmuoukhqixyh6cgudwe5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050473/f9absfvzjfxvglgcir4v.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050485/poq033wkjfvogce9whve.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050494/cw7lcb7pu6xxzwzhysss.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050508/dkpmpyllpg3fcxucsyko.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050521/silrox82qj8ezibsqtik.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050530/hzlaz3nzem4qolye96sw.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050539/kyxdj3r5tk0tppomi9xu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050548/hhenfatk1qziaeybqv1t.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050554/tfkxituasukisag8xn45.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050557/kjv8dixtbrlymdt0phzr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050561/cq4uwpotkyuunrpryftg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050568/ddi5qz9a9pqnhhuh9bfl.jpg"
+        }
+      ],
+      "year": "2023",
+      "client": "COSTA",
+      "role": "Brand Owner · Visual Identity Designer · Creative Director · Social Media Design",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777050340/hz9a38fq9kzlfqnybvnh.jpg"
+    },
+    {
+      "id": "proj-1777046558023",
+      "title": "COSTA UNLOCK 4 // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Full Branding · Tech Services · 2022",
+      "description": "UPDATE Logo Costa Unlock is a specialized software & device unlocking service — built with a complete visual identity that reflects speed, tech expertise, and digital precision. The brand system follows a dark tech aesthetic with Cyberpunk undertones, designed to perform across Telegram channels, social media, and all digital touchpoints. This is branding that earns trust in a high-stakes, fast-moving market.\n                            \nMost designers deliver a logo. Maybe a color palette. Maybe some mockups if you're lucky. This project delivers something different: a complete visual identity system for [Brand Name], explored across six visual dimensions — 3D space, Cyberpunk atmosphere, Marvel-level cinematic power, GTA street energy, motion that stops the scroll, and a storytelling framework that makes the brand feel like it's been here forever. This is not branding. This is world-building.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048255/w8lessbdlbt0dly6ugis.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048261/mhm5zyw1ljnk14zyy1cq.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048340/pgoqs1bnng90mqk41add.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048348/nvlzlsdzcrxbmbrgxcv8.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048355/svludf6fgkyp3cmt81rl.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048359/tgwuu3en8wpu5fixziwf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048366/qp8jdkmvllzjbgnt02xw.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048372/y7x5dsx7y8hthwoqq2c3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048378/kjaattiouqagedzlv6uq.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048388/orhqzcoqffx3gha8vsoa.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048398/er1lysvvnl3hiu9tsd3d.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048404/vsovimirziuttc7cj0ny.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048411/qbrazdrcsd7fjh6qpiyb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048419/upzbkpggnbaeye6yq30m.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048425/iuzca06t2r2ezcxhskfu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048430/bkooi61xcll9avtycm9i.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048435/p0qpj3xxoucwy7ziqxrx.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048440/olevhscc001ycqmejfyp.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048444/a6pothyn6gj0y4vcbvpf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048450/ua1mvsc3vlwwraveiyfv.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048456/enbcxoawcudtuayhtcew.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048462/bk6zwdol8ieq7skvlxwg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048467/x3bqynm3rg0ignvouhtw.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048474/ha7fjsbeuwzzi7qf96he.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048481/cloxfftx1cbyhkpfvgbj.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048488/jizxk6qujmcntd2r3wj7.jpg"
+        }
+      ],
+      "year": "2022",
+      "client": "COSTA",
+      "role": "Brand Owner · Visual Identity Designer · Creative Director · Social Media Design",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777048239/ejuxtvmshfevvwu5bpnu.jpg"
+    },
+    {
+      "id": "proj-1777045096681",
+      "title": "COSTA UNLOCK 3 // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Full Branding · Tech Services · 2021",
+      "description": "UPDATE Logo Costa Unlock is a specialized software & device unlocking service — built with a complete visual identity that reflects speed, tech expertise, and digital precision. The brand system follows a dark tech aesthetic with Cyberpunk undertones, designed to perform across Telegram channels, social media, and all digital touchpoints. This is branding that earns trust in a high-stakes, fast-moving market.\n                            \nMost designers deliver a logo. Maybe a color palette. Maybe some mockups if you're lucky. This project delivers something different: a complete visual identity system for [Brand Name], explored across six visual dimensions — 3D space, Cyberpunk atmosphere, Marvel-level cinematic power, GTA street energy, motion that stops the scroll, and a storytelling framework that makes the brand feel like it's been here forever. This is not branding. This is world-building.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777045980/xt4q4j5ekurwogl4t2sc.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777045980/apfb0oenanni3o66hoit.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777045983/vxv53u4uwgmnlttpjxer.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046013/irpsx6grnaaqlyfr8fnj.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046015/qxwhteyw6kqupn4ghenp.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046184/qitw0bkks6wbd5u3tlua.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046189/ksfryhnqidbvz8r3dtur.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046194/oe1bxrmm708yxpg4ta7t.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046200/bucy1vwg0hzrabqihdng.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046206/mihgeaxp61qha2myovf4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046211/sjd3sl7ckcq0h42eeaiv.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046215/rkhn9k1dv0afgezcpre1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046218/gl27mejbtf3nag8yu2f6.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046224/cbqurqxyd7f2xexyflrq.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046229/rsjgdgja9l6rhntsdp4h.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046233/d8zyhpzq4gwjrnxllz7h.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046237/gm7adlhhouc2szz0klgx.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046242/halv5nbz8bvz4ncao6gz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046246/droznfwqyfqdliq7yfoe.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046290/so2ne49zaaakent4rjlt.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046293/wdynog4adzjhbozjwlho.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046297/mcclrhy2atxfalzdaj2v.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777046300/sequi7mmylnexoilk12l.jpg"
+        }
+      ],
+      "year": "2021",
+      "client": "COSTA",
+      "role": "Brand Owner · Visual Identity Designer · Creative Director · Social Media Design",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777045976/mhhiiqverbe1cu5zosqe.jpg"
+    },
+    {
+      "id": "proj-1777042967434",
+      "title": "COSTA UNLOCK 2 // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Full Branding · Tech Services · 2020",
+      "description": "UPDATE Logo Costa Unlock is a specialized software & device unlocking service — built with a complete visual identity that reflects speed, tech expertise, and digital precision. The brand system follows a dark tech aesthetic with Cyberpunk undertones, designed to perform across Telegram channels, social media, and all digital touchpoints. This is branding that earns trust in a high-stakes, fast-moving market.\n                            \nMost designers deliver a logo. Maybe a color palette. Maybe some mockups if you're lucky. This project delivers something different: a complete visual identity system for [Brand Name], explored across six visual dimensions — 3D space, Cyberpunk atmosphere, Marvel-level cinematic power, GTA street energy, motion that stops the scroll, and a storytelling framework that makes the brand feel like it's been here forever. This is not branding. This is world-building.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044059/pmpmg0bde0ru5mvzpibb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044085/lzmfoagtuahsfohi6wd1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044085/tpwub7oyby4gjqfledqs.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044091/tkgmozaqbp8socfyt32q.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044096/tjylbf4apbuth4im2ron.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044103/s7f5qylhvbt660ijjo8u.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044145/ntr95xesoapilhwbizw5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044152/v8o12c6bc0rwzudhnkyg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044158/qo0xvuosxarwsjajtv9g.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044165/cubzyi4mswg0cwzodut5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044169/vtqgyuzwv0kk9nbwokgx.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044172/kt31zmjlyv2wvpbuh9nf.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044174/j9uqfckx8ggbbnwbedsi.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044177/uvr2iowdw9d50es7w0ak.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044180/remsepwtmfhfulzi5foj.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044185/c03gychhqfa0ouwbrev8.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044189/ng0h6xiuaqed56m4nhqt.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044234/wzrxoxidlujknoqt0h9p.jpg"
+        }
+      ],
+      "year": "2020",
+      "client": "COSTA",
+      "role": "Brand Owner · Visual Identity Designer · Creative Director · Social Media Design",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777044017/aktupr2dzqoelalxh2nh.jpg"
+    },
+    {
+      "id": "proj-1777038637479",
+      "title": "COSTA UNLOCK // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Full Branding · Tech Services · 2019",
+      "description": "Costa Unlock is a specialized software & device unlocking service — built with a complete visual identity that reflects speed, tech expertise, and digital precision. The brand system follows a dark tech aesthetic with Cyberpunk undertones, designed to perform across Telegram channels, social media, and all digital touchpoints. This is branding that earns trust in a high-stakes, fast-moving market.\n                            \nMost designers deliver a logo. Maybe a color palette. Maybe some mockups if you're lucky. This project delivers something different: a complete visual identity system for [Brand Name], explored across six visual dimensions — 3D space, Cyberpunk atmosphere, Marvel-level cinematic power, GTA street energy, motion that stops the scroll, and a storytelling framework that makes the brand feel like it's been here forever. This is not branding. This is world-building.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041022/hqryhtvn09vmkr2rdslx.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777041041/fate1nprpzvlmvfmnxkb.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041270/xabafmx7d5votoykycai.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041342/jjvvuemieuzufzevm4oe.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041503/shjpks0kngtvnb7s6vxe.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041506/eijpdr5n7hmwioxwre0f.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041510/d2bynzmaddv1u7cdqova.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041514/txmnkrh23ca1izqdbicf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041518/h6vsql4n6szdferhxynz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041522/qamkkrn5ihsge3rdcpga.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042159/rhqtqesxxnjyrio1mptj.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042222/mk57la6zab61lp9dgggy.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042241/l2scsyay9xftm0ihicku.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042287/epqxbwmlfqlvt0jqdobg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042305/yvfc7utmyihzn6jkyatp.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042324/cptvhysdzzuhesd8lg1y.jpg"
+        }
+      ],
+      "year": "2019",
+      "role": "Brand Owner · Visual Identity Designer · Creative Director · Social Media Design",
+      "client": "COSTA",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041006/w4uwjzqzpfh8jzrbyr43.jpg"
+    }
+  ]
+}
