@@ -40,6 +40,18 @@
     "theme": {
       "accent": "#e8162a",
       "density": "loose"
+    },
+    "about": {
+      "bio2": "For years, I used my design expertise as a strategic \"Business Weapon\" — crafting high-impact ads, visual identities, and professional marketing content for my own technical ventures.",
+      "bio3": "After a decade of using design to drive real-world tech success, I'm returning to the freelance world to offer you that same professional edge. I don't just \"draw\" — I engineer visual experiences. I blend the precision of a Software Engineer with the boundless creativity of an Artist.",
+      "tagline": "I don't follow trends. I create excellence.\n\n",
+      "whyText": "Professional quality, engineering-grade precision, and lightning-fast delivery. Let's transform your vision into a digital masterpiece.\n"
+    },
+    "contact": {
+      "instagram": "https://www.instagram.com/mazen_costaa/",
+      "linkedin": "www.linkedin.com/in/mazen-costa",
+      "behance": "https://www.behance.net/mazencosta1",
+      "email": "costasoleman194@gmail.com"
     }
   },
   "projects": [
